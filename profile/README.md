@@ -10,18 +10,16 @@
 
 # 🎀 hi, i'm nathie! 🌷
 
-nice to meet you! welcome to my profile! 🩷
+nice to meet you! welcome to my profile! 🌷
 
-i am a computer engineer and product portfolio leader passionate about creating magical, clean, and aesthetic software solutions 🩷
+i am a computer engineer and product portfolio leader passionate about creating clean, and aesthetic software solutions 🩷 my absolute goal is to build tools that not only work perfectly under the hood but also provide a beautiful and frictionless experience 💻✨
 
-my absolute goal is to build tools that not only work perfectly under the hood but also provide a beautiful and frictionless experience! 💻✨
-
-## 👩🏻‍💻 about my magic
+## 👩🏻‍💻 about me
 - 💼 currently working as a product portfolio leader at **chicks group**.
 - 🌸 creator and maintainer of **lumi**, a lightning-fast and interactive cli for media optimization.
 - 🎨 i have a massive crush on ui/ux! i absolutely love bringing designs to life and styling pixel-perfect, aesthetic web pages.
 - 📐 huge fan of mapping out complex architectures and workflows using **mermaid**, **diagrams.net** and/or **notion**.
-- 🌱 currently expanding my magical toolkit by diving into **docker**, **kotlin**, **nestjs**, **fastapi** and other related technologies!
+- 🌱 currently expanding my knowledge and toolkit by diving into **docker**, **kotlin**, **nestjs**, **fastapi** and other related technologies!
 
 ## 📊 my github stats ✨
 
@@ -92,10 +90,10 @@ my absolute goal is to build tools that not only work perfectly under the hood b
 feel free to reach out if you want to talk about code, architectures, or just share gaming tips! ❤️✨
 
 <div align="center">
-  <a href="mailto:nathievzm.dev@gmail.com">
+  <a href="mailto:nathievzm.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-ffc4e9?style=for-the-badge&logo=gmail&logoColor=5a1a66" alt="email" />
   </a>
-  <a href="https://linkedin.com/in/nathalie-zambrano-571997230">
+  <a href="https://linkedin.com/in/nathalie-zambrano-571997230" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-ffc4e9?style=for-the-badge&logo=linkedin&logoColor=5a1a66" alt="linkedin" />
   </a>
 </div>
