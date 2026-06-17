@@ -1,5 +1,5 @@
 <!-- 
-    theming
+    theme
 
     - pink: #ffc4e9
     - plum: #fd96ff
@@ -24,8 +24,8 @@ i am a computer engineer and product portfolio leader passionate about creating 
 ## 📊 my github stats ✨
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathievzm&show_icons=true&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="nathie's github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathievzm&layout=compact&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="nathie's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nathievzm&show_icons=true&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="my github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathievzm&layout=compact&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="my top languages" />
 </div>
 
 ## 🎀 my tech stack
@@ -71,14 +71,6 @@ i am a computer engineer and product portfolio leader passionate about creating 
   <img src="https://img.shields.io/badge/Notion-ffc4e9?style=for-the-badge&logo=notion&logoColor=5a1a66" alt="notion" />
   <img src="https://img.shields.io/badge/Mermaid-ffc4e9?style=for-the-badge&logo=mermaid&logoColor=5a1a66" alt="mermaid" />
   <img src="https://img.shields.io/badge/Postman-ffc4e9?style=for-the-badge&logo=postman&logoColor=5a1a66" alt="postman" />
-</div>
-
-## 🎧 now playing ✨
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31xzwj42ktitut65v5hlhmjslkge&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xzwj42ktitut65v5hlhmjslkge&theme=spotify-embed&bar_color_cover=true&mode=dark" alt="nathie's spotify stats" />
-  </a>
 </div>
 
 ## 🎮 out of the terminal
