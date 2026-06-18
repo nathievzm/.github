@@ -10,7 +10,7 @@
 
 # 🎀 hi, i'm nathie! 🌷
 
-nice to meet you! welcome to my profile! 🌷
+nice to meet you! welcome to my profile! 🩷
 
 i am a computer engineer and product portfolio leader passionate about creating clean, and aesthetic software solutions 🩷 my absolute goal is to build tools that not only work perfectly under the hood but also provide a beautiful and frictionless experience 💻✨
 
@@ -75,11 +75,11 @@ i am a computer engineer and product portfolio leader passionate about creating 
 
 ## 🎮 out of the terminal
 - 🎧 you will probably find me coding while listening to alt-rock, k-pop, or some relaxing nature sounds.
-- 👾 huge pc gamer! when i'm not writing code, i'm usually playing overwatch, marvel rivals, pools or lies of p on my rog strix.
-- 📍 based in sunny maracaibo, venezuela ☀️.
+- 👾 huge pc gamer! when i'm not writing code, i'm usually playing overwatch, marvel rivals, pools or lies of p on my pc.
+- 📍 based in sunny maracaibo, venezuela ☀️
 
 ## 💌 let's connect!
-feel free to reach out if you want to talk about code, architectures, or just share gaming tips! ❤️✨
+feel free to reach out if you want to talk about code, architectures, or just share gaming tips! 💖✨
 
 <div align="center">
   <a href="mailto:nathievzm.dev@gmail.com" target="_blank">
