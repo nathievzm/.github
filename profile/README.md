@@ -24,8 +24,8 @@ i am a computer engineer and product portfolio leader passionate about creating 
 ## 📊 my github stats ✨
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nathievzm&show_icons=true&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="my github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathievzm&layout=compact&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20" height="165" alt="my top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nathievzm&show_icons=true&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20&card_width=500" height="165" alt="my github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathievzm&layout=compact&bg_color=45,fd96ff,ffc4e9&title_color=5a1a66&text_color=5a1a66&icon_color=5a1a66&border_color=ffc4e9&border_radius=20&card_width=420" height="165" alt="my top languages" />
 </div>
 
 ## 🎀 my tech stack
