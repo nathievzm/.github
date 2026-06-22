@@ -1,5 +1,5 @@
 name: '🐛 bug report'
-description: 'create a report to help us squash a bug and improve lumi 🌸'
+description: 'create a report to help me squash a bug and improve the project'
 title: 'bug: <short description>'
 labels: ['bug']
 
@@ -15,7 +15,7 @@ body:
   - type: 'textarea'
     id: 'steps-to-reproduce'
     attributes:
-      label: '👣 steps to reproduce'
+      label: '🔄 steps to reproduce'
       description: 'steps to reproduce the behavior'
       placeholder: |
         1. Go to '...'
@@ -54,19 +54,19 @@ body:
       required: true
 
   - type: 'input'
-    id: 'bun-version'
+    id: 'runtime-version'
     attributes:
-      label: 'bun version'
-      description: 'specify the version of bun you are using (e.g., 1.0.0). if you are not using bun, please specify "n/a"'
-      placeholder: '1.0.0'
+      label: 'runtime/language version'
+      description: 'specify the version of the runtime or language you are using (e.g., bun 1.0.0, node 20, python 3.11)'
+      placeholder: 'e.g., bun 1.0.0'
     validations:
       required: true
 
   - type: 'input'
-    id: 'lumi-version'
+    id: 'project-version'
     attributes:
-      label: 'lumi version'
-      description: 'specify the version of lumi you are using (e.g., 1.0.0)'
+      label: 'project version'
+      description: 'specify the version of the project you are using (e.g., 1.0.0)'
       placeholder: '1.0.0'
     validations:
       required: true
@@ -74,14 +74,14 @@ body:
   - type: 'textarea'
     id: 'additional-context'
     attributes:
-      label: '✨ additional context'
+      label: '➕ additional context'
       description: 'add any other context about the problem here!'
 
   - type: 'checkboxes'
     id: 'code-of-conduct'
     attributes:
       label: '💖 code of conduct'
-      description: 'by submitting this bug, you agree to follow our [code of conduct](blob/main/.github/CODE_OF_CONDUCT.md)'
+      description: 'by submitting this bug, you agree to follow my [code of conduct](https://github.com/nathievzm/.github/blob/main/CODE_OF_CONDUCT.md)'
       options:
         - label: 'i have read and agree to the code of conduct'
           required: true
