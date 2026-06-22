@@ -1,0 +1,41 @@
+name: '✨ feature request'
+description: 'suggest an idea for lumi 🌸 to make it even more magical'
+title: 'feature: <short description>'
+labels: ['enhancement']
+
+body:
+  - type: 'textarea'
+    id: 'problem-description'
+    attributes:
+      label: '🤔 is your feature request related to a problem?'
+      description: 'a clear and concise description of what the problem is'
+      placeholder: "ex. i'm always frustrated when [...]"
+
+  - type: 'textarea'
+    id: 'solution-description'
+    attributes:
+      label: "✨ describe the solution you'd like"
+      description: 'a clear and concise description of what you want to happen'
+    validations:
+      required: true
+
+  - type: 'textarea'
+    id: 'alternatives-considered'
+    attributes:
+      label: "💡 describe alternatives you've considered"
+      description: "a clear and concise description of any alternative solutions or features you've considered"
+
+  - type: 'textarea'
+    id: 'additional-context'
+    attributes:
+      label: '✨ additional context'
+      description: 'add any other context or screenshots about the feature request here!'
+
+  - type: 'checkboxes'
+    id: 'code-of-conduct'
+    attributes:
+      label: '💖 code of conduct'
+      description: 'by submitting this feature request, you agree to follow our [code of conduct](blob/main/.github/CODE_OF_CONDUCT.md)'
+      options:
+        - label: 'i have read and agree to the code of conduct'
+          required: true
