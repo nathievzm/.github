@@ -1,11 +1,11 @@
 <!--
-💖 thank you for contributing to lumi!
+💖 thank you for contributing to my project!
 
 ✨ pr title guide:
 please use conventional commits for your pr title.
 format: <type>(<scope>): <short description>
 examples:
-  - feat: add image resizing magic
+  - feat: add image resizing logic
   - bug: fix format prompt crashing
   - docs: update readme with new flags
 -->
@@ -14,11 +14,11 @@ examples:
 
 ## ✨ description
 
-<!-- please include a clear and concise summary of the changes you have made. explain the motivation behind this pr and provide any necessary context so we can understand the magic you are bringing to lumi 🌸! -->
+<!-- include a clear and concise summary of the changes you have made. explain the motivation behind this pr and provide any necessary context so i can understand what you are bringing to the project 🌷! -->
 
 ## 🧪 how to test
 
-<!-- please explain how we can test your clean code locally!
+<!-- explain how i can test your clean code locally
 1. run '...'
 2. do '...'
 3. expect '...'
@@ -26,22 +26,22 @@ examples:
 
 ## 🐛 related issues
 
-<!-- please link any open issues that this pr resolves. -->
+<!-- link any open issues that this pr resolves -->
 
-- Closes #
+Closes #
 
 ## ✅ checklist
 
 By submitting this pull request, I confirm that my code is gucci and ready for review:
 
-- [ ] I have read the [contributing guidelines](CONTRIBUTING.md) 💖
+- [ ] I have read the [contributing guidelines](https://github.com/nathievzm/.github/blob/main/CONTRIBUTING.md) 💖
 - [ ] I have performed a self-review of my own code.
-- [ ] I have run `bun fmt` to ensure the codebase is perfectly formatted ✨
-- [ ] I have run `bun lint` and my code passes `oxlint` without any errors 🧹
-- [ ] I have verified my types using `bunx --bun tsc --noEmit` 🤓
-- [ ] I have added or updated tests that prove my fix is effective or that my feature works (if applicable).
-- [ ] I have updated the `README.md` or relevant documentation if my changes affect the CLI flags or environment variables.
+- [ ] I have run the project's formatting tools to ensure the codebase is perfectly formatted ✨
+- [ ] I have run the project's linter and my code passes without any errors 🧹
+- [ ] I have verified my types and tests (if applicable) 🤓
+- [ ] I have added or updated tests that prove my fix is effective or that my feature works.
+- [ ] I have updated the `README.md` or relevant documentation if my changes affect the CLI flags, API, or environment variables.
 
 ## 📸 screenshots or logs (if applicable)
 
-<!-- if your changes affect the interactive prompts or cli output, please provide screenshots or terminal logs to show off how it looks! -->
+<!-- if your changes affect the ui, interactive prompts, or cli output, please provide screenshots or terminal logs to show off how it looks! -->
