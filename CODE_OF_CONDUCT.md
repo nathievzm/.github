@@ -4,14 +4,14 @@
 
 Welcome to my open source community! 💖 I am so incredibly happy to have you here. Building software is a dream, and my
 absolute goal is for all my repositories to feel like a super safe, collaborative, and welcoming digital home for every
-developer. Before we jump into the code and start creating magic together, please take a little moment to read our house
+developer. Before we jump into the code and start cooking together, please take a little moment to read my house
 rules. Let's treat each other with kindness, respect, and build something awesome! ✨
 
-## 🤝 our pledge
+## 🤝 my pledge
 
-We pledge to make our community welcoming, safe, and equitable for all.
+I pledge to make my community welcoming, safe, and equitable for all.
 
-We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all
+I am committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all
 individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics,
 neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or
 religion, national or social origin, socio-economic position, level of education, or other status. The same privileges
@@ -19,24 +19,24 @@ of participation are extended to everyone who participates in good faith and in 
 
 ## 🌟 encouraged behaviors
 
-While acknowledging differences in social norms, we all strive to meet our community's expectations for positive
-behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture,
+While acknowledging differences in social norms, I ask that everyone strives to meet my community's expectations for positive
+behavior. I also understand that words and actions may be interpreted differently than intended based on culture,
 background, or native language.
 
-With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared
+With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center my shared
 values, including:
 
-- Respecting the purpose of our community, our activities, and our ways of gathering.
+- Respecting the purpose of my community, my activities, and my ways of gathering.
 - Engaging kindly and honestly with others.
 - Respecting different viewpoints and experiences.
-- Taking responsibility for our actions and contributions.
+- Taking responsibility for actions and contributions.
 - Gracefully giving and accepting constructive feedback.
 - Committing to repairing harm when it occurs.
-- Behaving in other ways that promote and sustain the well-being of our community.
+- Behaving in other ways that promote and sustain the well-being of my community.
 
 ## 🚫 restricted behaviors
 
-We agree to restrict the following behaviors in our community. Instances, threats, and promotion of these behaviors are
+I agree to restrict the following behaviors in my community. Instances, threats, and promotion of these behaviors are
 violations of this Code of Conduct.
 
 - **Harassment.** Violating explicitly expressed boundaries or engaging in unnecessary personal attention after any
@@ -50,7 +50,7 @@ violations of this Code of Conduct.
 - **Violating confidentiality.** Sharing or acting on someone's personal or private information without their
   permission.
 - **Endangerment.** Causing, encouraging, or threatening violence or other harm toward any person or group.
-- **Behaving in other ways that threaten the well-being of our community.**
+- **Behaving in other ways that threaten the well-being of my community.**
 
 ## 🛑 other restrictions
 
@@ -71,24 +71,22 @@ avoid conflicts and minimize harm.
 When an incident does occur, it is important to report it promptly. To report a possible violation, please email me
 directly at **nathievzm.dev@gmail.com** or contact [**@nathievzm**](https://github.com/nathievzm) on GitHub.
 
-Community Moderators take reports of violations seriously and will make every effort to respond in a timely manner. They
-will investigate all reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing
-witnesses and other participants. Community Moderators will keep investigation and enforcement actions as transparent as
-possible while prioritizing safety and confidentiality. In order to honor these values, enforcement actions are carried
-out in private with the involved parties, but communicating to the whole community may be part of a mutually agreed upon
-resolution.
+I take reports of violations seriously and will make every effort to respond in a timely manner. I will investigate all
+reports of code of conduct violations, reviewing messages, logs, and recordings, or interviewing witnesses and other
+participants. I will keep investigation and enforcement actions as transparent as possible while prioritizing safety and
+confidentiality. In order to honor these values, enforcement actions are carried out in private with the involved parties,
+but communicating to the whole community may be part of a mutually agreed upon resolution.
 
 ## 🩹 addressing and repairing harm
 
-If an investigation by the Community Moderators finds that this Code of Conduct has been violated, the following
-enforcement ladder may be used to determine how best to repair harm, based on the incident's impact on the individuals
-involved and the community as a whole. Depending on the severity of a violation, lower rungs on the ladder may be
-skipped.
+If an investigation finds that this Code of Conduct has been violated, the following enforcement ladder may be used
+by me to determine how best to repair harm, based on the incident's impact on the individuals involved and the community
+as a whole. Depending on the severity of a violation, lower rungs on the ladder may be skipped.
 
 ### 1. warning
 
 - **Event:** A violation involving a single incident or series of incidents.
-- **Consequence:** A private, written warning from the Community Moderators.
+- **Consequence:** A private, written warning from me.
 - **Repair:** Examples of repair include a private written apology, acknowledgement of responsibility, and seeking
   clarification on expectations.
 
@@ -104,8 +102,7 @@ skipped.
 
 ### 3. temporary suspension
 
-- **Event:** A pattern of repeated violation which the Community Moderators have tried to address with warnings, or a
-  single serious violation.
+- **Event:** A pattern of repeated violation which I have tried to address with warnings, or a single serious violation.
 - **Consequence:** A private written warning with conditions for return from suspension. In general, temporary
   suspensions give the person being suspended time to reflect upon their behavior and possible corrective actions.
 - **Repair:** Examples of repair include respecting the spirit of the suspension, meeting the specified conditions for
@@ -114,20 +111,19 @@ skipped.
 ### 4. permanent ban
 
 - **Event:** A pattern of repeated code of conduct violations that other steps on the ladder have failed to resolve, or
-  a violation so serious that the Community Moderators determine there is no way to keep the community safe with this
-  person as a member.
+  a violation so serious that I determine there is no way to keep the community safe with this person as a member.
 - **Consequence:** Access to all community spaces, tools, and communication channels is removed. In general, permanent
   bans should be rarely used, should have strong reasoning behind them, and should only be resorted to if working
   through other remedies has failed to change the behavior.
 - **Repair:** There is no possible repair in cases of this severity.
 
-This enforcement ladder is intended as a guideline. It does not limit the ability of Community Managers to use their
-discretion and judgment, in keeping with the best interests of our community.
+This enforcement ladder is intended as a guideline. It does not limit my ability to use my discretion and judgment, in
+keeping with the best interests of my community.
 
 ## 🌐 scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing
-the community in public or other spaces. Examples of representing our community include using an official email address,
+This Code of Conduct applies within all my community spaces, and also applies when an individual is officially representing
+my community in public or other spaces. Examples of representing my community include using an official email address,
 posting via an official social media account, or acting as an appointed representative at an online or offline event.
 
 ## 📝 attribution

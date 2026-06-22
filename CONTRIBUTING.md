@@ -3,14 +3,14 @@
 ## 🎀 welcome to the team!
 
 Thank you so much for your interest in contributing to my open source projects! 💖 To keep my repositories clean, organized, and running
-smoothly, please follow these guidelines when submitting your magical code.
+smoothly, please follow these guidelines when submitting your awesome code.
 
 ## 🐛 reporting issues & suggesting features
 
 Found a bug or have a brilliant idea for a new feature? I would love to hear about it!
 
 - Please check the existing issues first to make sure it hasn't already been reported.
-- If it is new, open an issue and provide as much detail as possible so I can understand and replicate the magic.
+- If it is new, open an issue and provide as much detail as possible so I can understand and replicate the problem.
 
 ## 🙋🏻‍♀️ claiming an issue to work on
 
@@ -70,8 +70,8 @@ When your code is ready and tested, open a Pull Request against the `main` branc
 
 - Ensure your code passes all linting and local tests before requesting a review.
 - Link the related issue in the PR description (e.g., `Closes #93`).
-- **Auto-magic assignment:** You do not need to assign the PR to yourself! The configured GitHub Actions will automatically assign
+- **Auto assignment:** You do not need to assign the PR to yourself! The configured GitHub Actions will automatically assign
   it to you once you open it. ✨
-- **Auto-magic labels:** If you followed the branch naming convention and included the issue number (e.g.,
+- **Auto labels:** If you followed the branch naming convention and included the issue number (e.g.,
   `feat/12-add-feature`), the configured GitHub Actions will automatically grab the labels from that issue and apply them to yourPR! 🏷️
 - I will review it as soon as possible and I will get that merged! 💖
