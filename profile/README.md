@@ -1,4 +1,4 @@
-<!-- 
+<!--
     theme
 
     - pink: #ffc4e9
@@ -13,6 +13,7 @@ nice to meet you! welcome to my profile! 🩷
 i am a computer engineer and product portfolio leader passionate about creating clean, and aesthetic software solutions 🩷 my absolute goal is to build tools that not only work perfectly under the hood but also provide a beautiful and frictionless experience 💻✨
 
 ## 👩🏻‍💻 about me
+
 - 💼 currently working as a product portfolio leader at **chicks group**.
 - 🌸 creator and maintainer of **lumi**, a lightning-fast and interactive cli for media optimization.
 - 🎨 i have a massive crush on ui/ux! i absolutely love bringing designs to life and styling pixel-perfect, aesthetic web pages.
@@ -72,11 +73,13 @@ i am a computer engineer and product portfolio leader passionate about creating 
 </div>
 
 ## 🎮 out of the terminal
+
 - 🎧 you will probably find me coding while listening to alt-rock, k-pop, or some relaxing nature sounds.
 - 👾 huge pc gamer! when i'm not writing code, i'm usually playing overwatch, marvel rivals, pools or lies of p on my pc.
 - 📍 based in sunny maracaibo, venezuela ☀️
 
 ## 💌 let's connect!
+
 feel free to reach out if you want to talk about code, architectures, or just share gaming tips! 💖✨
 
 <div align="center">
