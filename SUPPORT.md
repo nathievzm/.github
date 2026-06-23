@@ -5,7 +5,7 @@
 Thank you for using my projects! 💖 I want to make sure you have the best experience possible. If you are stuck, have a question, or just want to share something you built, here is how you can get support!
 
 > [!NOTE]
-> Please check the `README.md` of the specific repository first, as it usually contains the most common answers, FAQs, and setup guides 📖
+> Please make sure to read the specific repository's `README.md` first, as it usually contains all the core documentation and setup guides you need to get started! 📖
 
 ## 💬 asking questions & getting help
 
