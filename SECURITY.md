@@ -14,7 +14,8 @@ When in doubt, updating to the newest version is always the safest bet! ✨
 
 ## 🐛 reporting a vulnerability
 
-> [!IMPORTANT] If you discover a security issue, **please do not open a public issue.** I want to keep everyone safe while I work on a fix! 🛑
+> [!IMPORTANT]
+> If you discover a security issue, **please do not open a public issue.** I want to keep everyone safe while I work on a fix! 🛑
 
 If the repository has **Private Vulnerability Reporting** enabled, you can safely report the issue directly through the **Security** tab in the repository (which you can find by appending `/security/advisories/new` to the repository's URL)! 🛡️
 

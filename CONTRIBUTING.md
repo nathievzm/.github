@@ -70,7 +70,8 @@ When your code is ready and tested, open a Pull Request against the `main` branc
 
 - Ensure your code passes all linting and local tests before requesting a review.
 - Link the related issue in the PR description (e.g., `Closes #93`).
-> [!TIP] **✨ workflow perks!**
+> [!TIP]
+> **✨ workflow perks!**
 > - **Auto assignment:** You do not need to assign the PR to yourself! The configured GitHub Actions will automatically assign it to you once you open it.
 > - **Auto labels:** If you followed the branch naming convention and included the issue number (e.g., `feat/12-add-feature`), the configured GitHub Actions will automatically grab the labels from that issue and apply them to your PR! 🏷️
 - I will review it as soon as possible and I will get that merged! 💖
