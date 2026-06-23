@@ -19,7 +19,7 @@ When in doubt, updating to the newest version is always the safest bet! ✨
 
 If the repository has **Private Vulnerability Reporting** enabled, you can safely report the issue directly through the **Security** tab in the repository (which you can find by appending `/security/advisories/new` to the repository's URL) 🛡️
 
-Otherwise, please send an email directly to me at **nathievzm.dev@gmail.com**. 💌
+Otherwise, please send an email directly to me at **nathievzm.dev@gmail.com** 💌
 
 If you are reporting via email, please include:
 - **Summary**: A brief description of the vulnerability.
