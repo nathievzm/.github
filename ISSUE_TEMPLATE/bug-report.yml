@@ -1,22 +1,22 @@
-name: '🐛 bug report'
-description: 'create a report to help me squash a bug and improve the project'
-title: 'bug: <short description>'
-labels: ['bug']
+name: "🐛 bug report"
+description: "create a report to help me squash a bug and improve the project"
+title: "bug: <short description>"
+labels: ["bug"]
 
 body:
-  - type: 'textarea'
-    id: 'bug-description'
+  - type: "textarea"
+    id: "bug-description"
     attributes:
-      label: '🐛 describe the bug'
-      description: 'a clear and concise description of what the bug is'
+      label: "🐛 describe the bug"
+      description: "a clear and concise description of what the bug is"
     validations:
       required: true
 
-  - type: 'textarea'
-    id: 'steps-to-reproduce'
+  - type: "textarea"
+    id: "steps-to-reproduce"
     attributes:
-      label: '🔄 steps to reproduce'
-      description: 'steps to reproduce the behavior'
+      label: "🔄 steps to reproduce"
+      description: "steps to reproduce the behavior"
       placeholder: |
         1. Go to '...'
         2. Run command '...'
@@ -25,63 +25,63 @@ body:
     validations:
       required: true
 
-  - type: 'textarea'
-    id: 'expected-behavior'
+  - type: "textarea"
+    id: "expected-behavior"
     attributes:
-      label: '✨ expected behavior'
-      description: 'a clear and concise description of what you expected to happen'
+      label: "✨ expected behavior"
+      description: "a clear and concise description of what you expected to happen"
     validations:
       required: true
 
-  - type: 'upload'
-    id: 'screenshots'
+  - type: "upload"
+    id: "screenshots"
     attributes:
-      label: '📸 screenshots or logs'
-      description: 'if applicable, add screenshots or terminal logs to help explain your problem'
+      label: "📸 screenshots or logs"
+      description: "if applicable, add screenshots or terminal logs to help explain your problem"
 
-  - type: 'dropdown'
-    id: 'os'
+  - type: "dropdown"
+    id: "os"
     attributes:
-      label: '💻 environment'
-      description: 'select the environment(s) where you encountered the bug'
+      label: "💻 environment"
+      description: "select the environment(s) where you encountered the bug"
       multiple: true
       options:
-        - 'Windows'
-        - 'macOS'
-        - 'Linux'
-        - 'Other (please specify in the description)'
+        - "Windows"
+        - "macOS"
+        - "Linux"
+        - "Other (please specify in the description)"
     validations:
       required: true
 
-  - type: 'input'
-    id: 'runtime-version'
+  - type: "input"
+    id: "runtime-version"
     attributes:
-      label: 'runtime/language version'
-      description: 'specify the version of the runtime or language you are using (e.g., bun 1.0.0, node 20, python 3.11)'
-      placeholder: 'e.g., bun 1.0.0'
+      label: "runtime/language version"
+      description: "specify the version of the runtime or language you are using (e.g., bun 1.0.0, node 20, python 3.11)"
+      placeholder: "e.g., bun 1.0.0"
     validations:
       required: true
 
-  - type: 'input'
-    id: 'project-version'
+  - type: "input"
+    id: "project-version"
     attributes:
-      label: 'project version'
-      description: 'specify the version of the project you are using (e.g., 1.0.0)'
-      placeholder: '1.0.0'
+      label: "project version"
+      description: "specify the version of the project you are using (e.g., 1.0.0)"
+      placeholder: "1.0.0"
     validations:
       required: true
 
-  - type: 'textarea'
-    id: 'additional-context'
+  - type: "textarea"
+    id: "additional-context"
     attributes:
-      label: '➕ additional context'
-      description: 'add any other context about the problem here!'
+      label: "➕ additional context"
+      description: "add any other context about the problem here!"
 
-  - type: 'checkboxes'
-    id: 'code-of-conduct'
+  - type: "checkboxes"
+    id: "code-of-conduct"
     attributes:
-      label: '💖 code of conduct'
-      description: 'by submitting this bug, you agree to follow my [code of conduct](https://github.com/nathievzm/.github/blob/main/CODE_OF_CONDUCT.md)'
+      label: "💖 code of conduct"
+      description: "by submitting this bug, you agree to follow my [code of conduct](https://github.com/nathievzm/.github/blob/main/CODE_OF_CONDUCT.md)"
       options:
-        - label: 'i have read and agree to the code of conduct'
+        - label: "i have read and agree to the code of conduct"
           required: true

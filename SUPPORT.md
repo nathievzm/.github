@@ -13,8 +13,8 @@ If you need help, have a general question, or want to suggest a new feature, the
 
 - **GitHub Discussions:** If the repository has the Discussions tab enabled, please ask there! It's a great way to get help from me and the rest of the community.
 - **Feature Requests:** Have a brilliant idea? Use the **Feature Request** issue template to tell me all about it! 💡
-- **GitHub Issues:** If Discussions aren't enabled, feel free to open a new Issue using the `question` label for general help. 
-- **Say hi!** You can always find me and my social links on my [GitHub Profile](https://github.com/nathievzm). ✨
+- **GitHub Issues:** If Discussions aren't enabled, feel free to open a new Issue using the `question` label for general help.
+- **Say hi!** You can always find me and my social links on my [GitHub Profile](https://github.com/nathievzm) ✨
 
 ## 🐛 reporting bugs
 
